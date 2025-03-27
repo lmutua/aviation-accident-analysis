@@ -12,7 +12,7 @@ The stakeholders in this analysis include airline companies, aviation safety reg
 
 Key Business questions:
 1. What are the key risk factors leading to injuries and fatalities?
-2. What chages can be made to improve aviation safety?
+2. What changes can be made to improve aviation safety?
 ## Data Understanding
 
  The dataset used is from the National Transportation Safety Board(NTSB) and has aviation data from the year 1962 to 2023.
@@ -40,7 +40,7 @@ Focusing on the chosen features (Event date, aircraft model, make and category) 
 
 ## Conclusion
 
-# Findings and Recommendations
+### Findings and Recommendations
 
 Writing down the findings from the visualizations and analysis. 
 Giving recommendations based on the findings.
