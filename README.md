@@ -32,11 +32,24 @@ Focusing on the chosen features (Event date, aircraft model, make and category) 
 
 ![Injury Trends Over Time](injury_trends_overtime.png)
 
-2.![Injuries per category](injury_per_category.png)
+From the figure above, it is evident that there were few injuries upto the year 1981, where we see a rise in injuries in 1982. There was a gradual drop until 1996 were there is a spike with 3794 injuries. There after, we see a decrease in the number of injuries which can be attributed to measures put in place to curb accidents.
 
-3.![Injuries per Aircraft Make](injury_per_make.png)
+2. Injuries by Category
 
-4.![Injury by Make-model](injuries_by_make_model.png)
+![Injuries per category](injury_per_category.png) 
+From the above, we see that Airplane and Helicopter are leading interms of total number of Injuries. Categories such powered-lift and Blimp have almost zero registered injuries.
+
+3. Injuries by Aircraft Make
+
+![Injuries per Aircraft Make](injury_per_make.png)
+From the visualization above, Cessna, Boeing and Piper have a high number of total injuries.
+
+4. Injury by Make & model
+
+![Injury by Make-model](injuries_by_make_model.png)
+From this figure, Boeing 737 has the highest number of injuries, followed by Cessna172. Boeing 777-206, Airbus-A321 are also among the top leading models in-terms of injuries.
+
+5. Tableau Dashboard
 
 A dashboard is build for this, explore it [here](https://public.tableau.com/app/profile/lucy.mutua/viz/AviationAccidentRiskAnalysis_17431941135170/AviationAccidents)
 
@@ -53,7 +66,7 @@ Giving recommendations based on the findings.
 
 **Finding 2:** Aircraft Category Plays a Major Role in Safety.
 
-**Recommendation:**The company should select models with improved safety records, cutting-edge safety measures, and reduced accident rates.
+**Recommendation:** The company should select models with improved safety records, cutting-edge safety measures, and reduced accident rates.
 
 **Finding 3:** Aircraft Make Influences Safety Performance.
 
