@@ -38,6 +38,8 @@ Focusing on the chosen features (Event date, aircraft model, make and category) 
 
 4.![Injury by Make-model](injuries_by_make_model.png)
 
+A dashboard is build for this, explore it [here](https://public.tableau.com/app/profile/lucy.mutua/viz/AviationAccidentRiskAnalysis_17431941135170/AviationAccidents)
+
 ## Conclusion
 
 ### Findings and Recommendations
